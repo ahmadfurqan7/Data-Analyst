@@ -6,7 +6,7 @@ Each project is dedicated to a different area and the context is well explained 
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the [LICENSE](https://github.com/ahmadfurqan7/PowerBI-Project/blob/main/LICENSE.txt). Your cooperation is vital in ensuring a collaborative and open environment.
+This project is licensed under the MIT [LICENSE](LICENSE) use it freely for learning, teaching, or building.
 ```
   _    _ _  ______  _   _ 
  | |  | | |/ / __ \| \ | |
