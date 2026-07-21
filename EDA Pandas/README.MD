@@ -67,37 +67,6 @@ Real-world data is rarely analysis-ready. This notebook demonstrates a practical
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
-   ```
-2. Install the required dependencies
-   ```bash
-   pip install pandas seaborn matplotlib openpyxl jupyter
-   ```
-3. Launch Jupyter Notebook
-   ```bash
-   jupyter notebook
-   ```
-4. Open either `Data_Cleaning.ipynb` or `EDA_In_Pandas.ipynb` and run the cells.
-
-> **Note:** Update the dataset file paths in the notebooks to match your local directory structure before running.
-
----
-
-## 📂 Repository Structure
-
-```
-├── Data_Cleaning.ipynb     # Cleaning messy customer data
-├── EDA_In_Pandas.ipynb     # Exploring world population dataset
-└── README.md                # Project documentation
-```
-
----
-
 ## 🎯 What This Project Demonstrates
 
 - Strong understanding of **data cleaning fundamentals** (deduplication, string manipulation, regex, handling missing data)
