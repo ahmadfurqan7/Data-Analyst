@@ -81,3 +81,18 @@ Real-world data is rarely analysis-ready. This notebook demonstrates a practical
 Feel free to reach out if you have questions, feedback, or just want to connect!
 
 ⭐ If you found this project useful or interesting, consider giving it a star!
+
+---
+
+## License
+
+This project is licensed under the MIT [LICENSE](LICENSE) use it freely for learning, teaching, or building.
+```
+  _    _ _  ______  _   _ 
+ | |  | | |/ / __ \| \ | |
+ | |  | | ' / |  | |  \| |
+ | |  | |  <| |  | | . ` |
+ | |__| | . \ |__| | |\  |
+  \____/|_|\_\____/|_| \_|                
+```
+
