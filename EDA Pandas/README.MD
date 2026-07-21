@@ -10,8 +10,8 @@ This repository contains two Jupyter notebooks that showcase two essential stage
 
 | Notebook | Focus | Dataset |
 |---|---|---|
-| [`Data_Cleaning.ipynb`](./Data_Cleaning.ipynb) | Cleaning a messy customer contact list | `Customer Call List.xlsx` |
-| [`EDA_In_Pandas.ipynb`](./EDA_In_Pandas.ipynb) | Exploring global population trends | `world_population.csv` |
+| [`Data_Cleaning.ipynb`](https://github.com/ahmadfurqan7/Data-Analyst/blob/main/EDA%20Pandas/Data%20Cleaning.ipynb) | Cleaning a messy customer contact list | `Customer Call List.xlsx` |
+| [`EDA_In_Pandas.ipynb`](https://github.com/ahmadfurqan7/Data-Analyst/blob/main/EDA%20Pandas/EDA%20In%20Pandas.ipynb) | Exploring global population trends | `world_population.csv` |
 
 Together, they walk through the full journey of turning raw, inconsistent data into something clean, structured, and ready for analysis — then extracting real insights from it.
 
